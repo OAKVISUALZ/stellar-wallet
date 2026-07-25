@@ -13,17 +13,15 @@ A simple Stellar testnet wallet dApp that allows users to connect their Freighte
 
 
 ### Wallet Connected State
-![Wallet Connected]
 <img width="1366" height="693" alt="Screenshot 2026-07-25 052507" src="https://github.com/user-attachments/assets/0a937d7b-da7a-46d8-b1c8-8953be0e4d59" />
 
 
 ### Balance Displayed
-![Balance Displayed]
+
 <img width="1366" height="679" alt="Screenshot 2026-07-25 053632" src="https://github.com/user-attachments/assets/a936ae21-b468-4f18-a9c9-79b17e907420" />
 
 
 ### Successful Testnet Transaction
-![Transaction Success]
 <img width="1366" height="583" alt="Screenshot 2026-07-25 053509" src="https://github.com/user-attachments/assets/03d14899-8100-44b3-9f4c-83de7491fbd3" />
 
 <img width="1366" height="679" alt="Screenshot 2026-07-25 053632" src="https://github.com/user-attachments/assets/4e2b0dce-b235-4760-8a7a-ee1ac6fb761e" />
