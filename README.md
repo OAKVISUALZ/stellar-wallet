@@ -2,6 +2,8 @@
 
 A simple Stellar testnet wallet dApp that allows users to connect their Freighter wallet, view their XLM balance, and send XLM transactions on the Stellar testnet. Built as part of the **Stellar Journey to Mastery** Level 1 - White Belt challenge.
 
+**Live Demo:** https://stellar-wallet-oak.netlify.app
+
 ## Features
 
 - **Wallet Connection** - Connect and disconnect Freighter wallet
@@ -38,7 +40,7 @@ A simple Stellar testnet wallet dApp that allows users to connect their Freighte
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/stellar-wallet.git
+   git clone https://github.com/OAKVISUALZ/stellar-wallet.git
    cd stellar-wallet
    ```
 
