@@ -3,6 +3,7 @@
 A simple Stellar testnet wallet dApp that allows users to connect their Freighter wallet, view their XLM balance, and send XLM transactions on the Stellar testnet. Built as part of the **Stellar Journey to Mastery** Level 1 - White Belt challenge.
 
 **Live Demo:** https://stellar-wallet-oak.netlify.app
+Transaction link: https://stellar.expert/explorer/testnet/tx/d924cdbbeaa534a9c4c5a8270a29761c37bef3571790b67f3ded4ce5978969e5
 
 ## Features
 
